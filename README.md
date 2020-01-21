@@ -1,8 +1,8 @@
 # How profitable is the circular payment strategy?
 
-Although it is possible to send XRP to yourself, from wallet A to wallet B (as long as you own both wallets), it is impossible to consume exciting offer(s) on the ledger by sending XRP from one wallet to another. In other words, an XRP-to-XRP transaction does not use any paths. 
+Although it is possible to send XRP to yourself, from wallet A to wallet B (as long as you own both wallets), it is impossible to consume existing offer(s) on the ledger by sending XRP from one wallet to another. In other words, an XRP-to-XRP transaction does not use any paths. 
 
-However, it looks like rMHSvqV83BhFDhkQtXELxNYyyhq776dhzG managed to find a workaround/ way to send an issued currency or IOU (I Owe You, basically a debt instrument) to itself, while consuming exciting offer(s) on the Ledger, therefore taking advantage of arbitrage opportunities.
+However, it looks like rMHSvqV83BhFDhkQtXELxNYyyhq776dhzG managed to find a workaround/ way to send an issued currency or IOU (I Owe You, basically a debt instrument) to itself, while consuming existing offer(s) on the Ledger, therefore taking advantage of arbitrage opportunities.
 
 Example: USD.Bob-->XRP-->CNY.Yua-->XRP-->EUR.Joe-->USD.Bob
 
