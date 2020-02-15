@@ -21,3 +21,11 @@ Two takeaways:
 - Two phases are visible/ distinguishable. My assumption is that before June 2019, the strategy/ project was probably in a test mode. At the beginning of June, all sub wallets were initialised with more or less the same amount of xrp. Then the strategy has been running with consistency.
 
 ![Alt text](https://raw.githubusercontent.com/TiGowa/xrp-ledger-circular-payment/master/graph.png?raw=true "Optional Title")
+
+Personal note: 
+
+>The so-called "circular payment" strategy has no benefit to the network/ ledger. 
+
+>It does not bring liquidity, it consumes existing payment path(s) by using issued currencies that have no practical use in the real economy, to the detriment of better paths for useful payments.
+
+>Although direct arbitrage between the XRP Ledger and another exchange is beneficial as it improves price discovery and liquidity, the circular strategy removes automatically the potential best option/ path (less expensive payment) for someone who is willing to send value on the ledger to someone else.
